@@ -1,0 +1,310 @@
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=d007e9f716d3d7a6c570ab130d78e304/default/styles/walgreens/global.css ::::: */
+
+body, div, table, tr, td, p, span { font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 12px; color: rgb(70, 70, 70); }
+div { outline-style: none; }
+ol, ul { font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 12px; color: rgb(70, 70, 70); }
+a { font-family: Arial; font-size: 12px; color: rgb(39, 116, 166); text-decoration: none; }
+a:hover { text-decoration: underline; color: rgb(39, 116, 166); }
+.footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+a.footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+a.footerblack:hover { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+.new-footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); line-height: 20px; }
+a.new-footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); line-height: 20px; }
+a.new-footerblack:hover { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+img { border: medium none; }
+img { border: medium none; }
+td.store-tile-cell { padding: 0px; vertical-align: top; }
+TABLE.store-tiles-table TD { padding: 0px; vertical-align: top; }
+TABLE.store-tiles-table { border-collapse: collapse; }
+.search-textbox-gray { border-color: rgb(184, 184, 184); border-style: solid; border-width: 1px; height: 27px; line-height: 25px; width: 120px; font-family: Arial; font-size: 13px; font-weight: normal; color: rgb(107, 116, 124); }
+.body-back-image { background-image: url('body-back-piece.gif'); background-repeat: repeat; }
+.w-shadow-top-popup { background: url('top.png') repeat-x scroll right top transparent; }
+.w-shadow-bottom { background: url('btm.png') repeat-x scroll right top transparent; }
+.w-shadow-left { background: url('left.png') repeat-y scroll right top transparent; }
+.w-shadow-right { background: url('rite.png') repeat-y scroll left top transparent; }
+.w-shadow-topleft { background: url('top_left.png') no-repeat scroll right bottom transparent; }
+.w-shadow-bottomleft { background: url('btm_left.png') no-repeat scroll right top transparent; }
+.w-shadow-bottomright { background: url('btm_rite.png') no-repeat scroll left top transparent; }
+.w-shadow-topright { background: url('top_rite.png') no-repeat scroll left bottom transparent; }
+.storeleftnavborder { background: none repeat scroll 0% 0% rgb(255, 255, 255); padding-left: 10px; padding-top: 11px; border-bottom: 2px solid rgb(255, 255, 255); border-top: 6px solid rgb(255, 255, 255); border-right: 2px solid rgb(255, 255, 255); }
+.new-footer-background { background: url('new-footer-background.gif') repeat-x scroll 0% 0% transparent; height: 357px; }
+.platinumtab { position: relative; float: left; padding-right: 3px; }
+.platinumtab .headerTab-1Class-hide, .platinumtab .headerTab-2Class-hide, .platinumtab .headerTab-3Class-hide, .platinumtab .headerTab-4Class-hide, .platinumtab .headerTab-5Class-hide, .platinumtab .headerTab-6Class-hide, .platinumtab .headerTab-7Class-hide, .platinumtab .headerTab-8Class-hide { display: none; }
+.platinumtab .headerTab-1Class, .platinumtab .headerTab-2Class, .platinumtab .headerTab-3Class, .platinumtab .headerTab-4Class, .platinumtab .headerTab-5Class, .platinumtab .headerTab-6Class, .platinumtab .headerTab-7Class { background: url('tabbg.jpg') repeat-x scroll 0px 0px transparent; text-align: center; width: 109px; height: 28px; }
+.platinumtab .headerTab-8Class { background: url('header-sprite.png') no-repeat scroll 0px -326px transparent; text-align: center; width: 109px; height: 28px; }
+.platinumtab .headerTab-1Class a, .platinumtab .headerTab-2Class a, .platinumtab .headerTab-3Class a, .platinumtab .headerTab-4Class a, .platinumtab .headerTab-5Class a, .platinumtab .headerTab-6Class a, .platinumtab .headerTab-7Class a, .platinumtab .headerTab-8Class a { display: block; color: rgb(73, 81, 88); text-align: center; font-family: arial; font-size: 14px; padding-top: 5px; font-weight: bold; text-decoration: none; }
+.platinumtab .headerTab-8Class a { color: rgb(255, 255, 255); }
+.platinumtab .headerTab-1ClassOver a, .platinumtab .headerTab-2ClassOver a, .platinumtab .headerTab-3ClassOver a, .platinumtab .headerTab-4ClassOver a, .platinumtab .headerTab-5ClassOver a, .platinumtab .headerTab-6ClassOver a, .platinumtab .headerTab-7ClassOver a, .platinumtab .headerTab-8ClassOver a, .platinumtab .headerTab-1ClassOver a:hover, .platinumtab .headerTab-2ClassOver a:hover, .platinumtab .headerTab-3ClassOver a:hover, .platinumtab .headerTab-4ClassOver a:hover, .platinumtab .headerTab-5ClassOver a:hover, .platinumtab .headerTab-6ClassOver a:hover, .platinumtab .headerTab-7ClassOver a:hover, .platinumtab .headerTab-8ClassOver a:hover { display: block; color: rgb(73, 81, 88); text-align: center; font-family: arial; font-size: 14px; padding-top: 5px; font-weight: bold; text-decoration: none; margin-left: -3px; }
+html > body .platinumtab .headerTab-6ClassOver a { padding-left: 0px; }
+.platinumtab .headerTab-5ClassOver a { padding-left: 0px; }
+.platinumtab .headerTab-1ClassOver, .platinumtab .headerTab-2ClassOver, .platinumtab .headerTab-3ClassOver, .platinumtab .headerTab-4ClassOver, .platinumtab .headerTab-5ClassOver, .platinumtab .headerTab-6ClassOver, .platinumtab .headerTab-7ClassOver, .platinumtab .headerTab-8ClassOver { background: url('header-sprite.png') no-repeat scroll right -365px transparent; text-align: center; width: 112px; height: 28px; position: absolute; z-index: 50; top: 0px; left: 0px; }
+.platinumtab .headerTab-1-position, .platinumtab .headerTab-2-position, .platinumtab .headerTab-3-position, .platinumtab .headerTab-4-position, .platinumtab .headerTab-5-position, .platinumtab .headerTab-6-position, .platinumtab .headerTab-7-position, .platinumtab .headerTab-8-position { position: absolute; z-index: 40; padding-right: 0px; padding-top: 0px; top: 28px; display: block; background: url('platinum-dropdown-shadow.png') no-repeat scroll 0% 0% transparent; }
+.platinumtab .headerTab-1-position { background-position: -276px -204px; margin-left: 5px; }
+html > body .platinumtab .headerTab-2-position { background-position: -148px -159px; margin-left: 5px; }
+.platinumtab .headerTab-2-position { background-position: -148px -159px; margin-left: 5px; }
+.platinumtab .headerTab-3-position { background-position: -12px -173px; margin-left: 5px; }
+.platinumtab .headerTab-4-position { background-position: -464px -218px; margin-left: 5px; }
+.platinumtab .headerTab-5-position { background-position: -375px -57px; left: -155px; margin-left: -1px; }
+.platinumtab .headerTab-6-position { background-position: -433px -253px; left: -88px; margin-left: -10px; }
+.platinumtab .headerTab-7-position { background-position: -365px -244px; left: -156px; margin-left: -10px; }
+.platinumtab .headerTab-8-position { background-position: -495px -375px; left: -26px; margin-left: -10px; }
+.platinumtab .headerTab-1-dropdown, .platinumtab .headerTab-2-dropdown, .platinumtab .headerTab-3-dropdown, .platinumtab .headerTab-4-dropdown, .platinumtab .headerTab-5-dropdown, .platinumtab .headerTab-6-dropdown, .platinumtab .headerTab-7-dropdown, .platinumtab .headerTab-8-dropdown { background: url('platinum-dropdown-lbshadow.png') no-repeat scroll 0% 0% transparent; margin-left: 0px; position: relative; left: -5px; }
+.platinumtab .headerTab-1-dropdown, .platinumtab .headerTab-2-dropdown, .platinumtab .headerTab-3-dropdown, .platinumtab .headerTab-4-dropdown {  }
+.platinumtab .headerTab-1-dropdown { width: 369px; height: 296px; background-position: left -204px; }
+.platinumtab .headerTab-2-dropdown { width: 497px; height: 341px; background-position: left -159px; }
+html > body .platinumtab .headerTab-2-dropdown { width: 497px; height: 341px; background-position: left -159px; }
+.platinumtab .headerTab-3-dropdown { width: 633px; height: 327px; background-position: left -173px; }
+.platinumtab .headerTab-4-dropdown { width: 181px; height: 282px; background-position: 0px -218px; }
+.platinumtab .headerTab-5-dropdown { width: 270px; height: 443px; background-position: left -57px; }
+.platinumtab .headerTab-6-dropdown { width: 212px; height: 247px; background-position: left -253px; }
+.platinumtab .headerTab-7-dropdown { width: 280px; height: 256px; background-position: left -244px; }
+.platinumtab .headerTab-8-dropdown { width: 150px; height: 125px; background-position: left -375px; }
+.platinum-links { font-weight: bold; font-size: 12px; color: rgb(240, 97, 6); font-family: Arial,Verdana,Helvetica,sans-serif; text-decoration: none; }
+.platinum-links:hover { color: rgb(240, 97, 6); }
+.sprite-hdr { display: block; background: url('header-sprite.png') no-repeat scroll 0% 0% transparent; }
+a.walgreennewlogo-top:hover { background-position: 0px -518px; width: 101px; height: 42px; }
+.walgreennewlogo-top { background-position: 0px -417px; width: 101px; height: 42px; }
+.walgreennewlogo-bot { background-position: 0px -458px; width: 142px; height: 51px; }
+.walgreennewupload { background: url('header-sprite.png') no-repeat scroll -16px -877px transparent; display: block; float: left; height: 20px; text-decoration: none; margin: 0px 3px 0px 0px; width: 80px; }
+.walgreennewmyphotos { background: url('header-sprite.png') no-repeat scroll -7px -925px transparent; display: block; float: left; height: 20px; text-decoration: none; margin: 0px 3px 0px 0px; width: 130px; }
+.walgreennewprojects { background: url('header-sprite.png') no-repeat scroll -5px -829px transparent; display: block; float: left; height: 20px; text-decoration: none; margin: 0px 3px 0px 0px; width: 134px; }
+.carticon-grey { background-position: 0px -114px; width: 30px; height: 23px; }
+.searchbtn-head { background-position: 0px -289px; width: 49px; height: 28px; }
+.footer-head-txt { font-weight: bold; font-size: 12px; font-family: arial,verdana,serif; text-transform: uppercase; }
+.sprite-ftr { display: block; background-image: url('footer-sprite.png'); }
+.footer-mobileicon { background-position: 0px -10px; width: 7px; height: 13px; }
+.footer-emailicon { background-position: 0px -30px; width: 78px; height: 74px; }
+.footer-icontxt { background-position: 0px -110px; width: 88px; height: 37px; }
+.footer-locations { background-position: 0px -150px; width: 285px; height: 48px; }
+.footer-pickuplink { background-position: 0px -210px; width: 54px; height: 48px; }
+.footer-pickuptxt { background-position: 0px -270px; width: 167px; height: 48px; }
+.footer-bluedotted { background-position: 0px -320px; width: 220px; height: 16px; }
+@media only screen and (max-device-width: 1024px) {
+}
+@media only screen and (max-width: 786px) and (orientation: portrait) {
+}
+@media only screen and (max-device-width: 599px) {
+}
+@media only screen and (max-device-width: 479px) and (orientation: portrait) {
+}
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=c6af7c820b1de112c3aed2b3a7f626e9/default/styles/walgreens/site/pricing_grids.css ::::: */
+
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=c6af7c820b1de112c3aed2b3a7f626e9/default/ClientLibraries/InfoscopicWeb/dhtml/Dialog/Dialog.css ::::: */
+
+.dialog { position: absolute; display: block; top: 0px; left: 0px; visibility: hidden; z-index: 100; }
+.dialog-header { padding: 0px; }
+.dialog-header SPAN { vertical-align: middle; }
+.dialog-tl { position: absolute; top: 0px; left: 0px; font-size: 0px; }
+.dialog-tr { position: absolute; top: 0px; right: 0px; font-size: 0px; }
+.dialog-footer { font-size: 0px; }
+.dialog-bl { position: absolute; left: 0px; font-size: 0px; }
+.dialog-br { position: absolute; right: 0px; font-size: 0px; }
+.dialog-body {  }
+.dialog-close-icon { top: 0px; right: 2px; position: absolute; cursor: pointer; }
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=d1a297a0ec95d40c9d0755a95665eaf9/default/styles/walgreens/inline_popup.css ::::: */
+
+.snapfish-dialog { width: 300px; }
+.snapfish-dialog .dialog-header { margin-left: 7px; margin-right: 7px; height: 23px; background-color: rgb(248, 117, 0); }
+.snapfish-dialog .dialog-header SPAN { color: White; font-size: 12px; font-weight: bold; line-height: 23px; }
+.snapfish-dialog .dialog-tl { width: 7px; height: 23px; top: 0px; left: 0px; background: url('dialog-tl.gif') repeat scroll 0% 0% transparent; }
+.snapfish-dialog .dialog-tr { width: 7px; height: 23px; background: url('dialog-tr.gif') repeat scroll 0% 0% transparent; }
+.snapfish-dialog .dialog-footer { margin-left: 7px; margin-right: 7px; height: 7px; background: url('dialog-bottom.gif') repeat scroll 0% 0% rgb(248, 117, 0); }
+.snapfish-dialog .dialog-bl { width: 7px; height: 7px; background: url('dialog-bl.gif') repeat scroll 0% 0% transparent; }
+.snapfish-dialog .dialog-br { width: 7px; height: 7px; background: url('dialog-br.gif') repeat scroll 0% 0% transparent; }
+.snapfish-dialog .dialog-body { padding: 10px; background-color: White; border-left: 2px solid rgb(248, 117, 0); border-right: 2px solid rgb(248, 117, 0); }
+.snapfish-dialog IFRAME { height: 200px; }
+.snapfish-dialog .dialog-close-icon { background: url('dialog-close-icon.gif') repeat scroll 0% 0% transparent; top: 0px; right: 2px; width: 17px; height: 22px; }
+.snapfish-dialog .dialog-buttons-div { padding-top: 3px; text-align: center; }
+.snapfish-dialog .dialog-close-button { background: url('b-close.gif') repeat scroll 0% 0% transparent; border: 0px none; margin: 0px; padding: 0px; width: 118px; height: 20px; cursor: pointer; }
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=c6af7c820b1de112c3aed2b3a7f626e9/default/styles/snapfish/DynamicTicker.css ::::: */
+
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/232323232%7Ffp33237%3Eju%3Dduvgwu%3EErducqfbYDNJTHGQU%3Eevu%3Ee%3EEVUbhlnhaZcoiughpvaqgz3b3334%3B%3C29236%3E21evu ::::: */
+
+TABLE.menu-box-table { margin-bottom: 10px; border-collapse: collapse; width: 100%; background-color: rgb(255, 255, 255); }
+.nav-menu TD { padding: 0px; }
+TD.menu-item-left-margin-cell { font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 9px; font-weight: bold; vertical-align: middle; text-align: center; width: 10px; display: none; }
+TD.menu-item-bullet-cell { text-align: center; vertical-align: middle; width: 13px; font-weight: bold; color: rgb(248, 117, 0); font-size: 9px; display: none; }
+TD.menu-item-header-cell { font-weight: normal; border: 2px solid rgb(255, 255, 255); color: rgb(248, 117, 0); font-size: 16px; }
+TD.menu-item-link-cell { border: 2px solid rgb(255, 255, 255); }
+A.menu-item-link { color: rgb(70, 70, 70); font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 12px; text-decoration: none; }
+A.menu-item-link:hover { color: rgb(70, 70, 70); font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 12px; text-decoration: underline; }
+DIV.nav-menu TD.menu-item-header-space { padding-top: 25px; }
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=d007e9f716d3d7a6c570ab130d78e304/default/styles/walgreens/global.css ::::: */
+
+body, div, table, tr, td, p, span { font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 12px; color: rgb(70, 70, 70); }
+div { outline-style: none; }
+ol, ul { font-family: Arial,Verdana,Helvetica,sans-serif; font-size: 12px; color: rgb(70, 70, 70); }
+a { font-family: Arial; font-size: 12px; color: rgb(39, 116, 166); text-decoration: none; }
+a:hover { text-decoration: underline; color: rgb(39, 116, 166); }
+.footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+a.footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+a.footerblack:hover { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+.new-footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); line-height: 20px; }
+a.new-footerblack { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); line-height: 20px; }
+a.new-footerblack:hover { font-family: Arial; font-size: 12px; text-decoration: none; color: rgb(70, 70, 70); }
+img { border: medium none; }
+img { border: medium none; }
+td.store-tile-cell { padding: 0px; vertical-align: top; }
+TABLE.store-tiles-table TD { padding: 0px; vertical-align: top; }
+TABLE.store-tiles-table { border-collapse: collapse; }
+.search-textbox-gray { border-color: rgb(184, 184, 184); border-style: solid; border-width: 1px; height: 27px; line-height: 25px; width: 120px; font-family: Arial; font-size: 13px; font-weight: normal; color: rgb(107, 116, 124); }
+.body-back-image { background-image: url('body-back-piece.gif'); background-repeat: repeat; }
+.w-shadow-top-popup { background: url('top.png') repeat-x scroll right top transparent; }
+.w-shadow-bottom { background: url('btm.png') repeat-x scroll right top transparent; }
+.w-shadow-left { background: url('left.png') repeat-y scroll right top transparent; }
+.w-shadow-right { background: url('rite.png') repeat-y scroll left top transparent; }
+.w-shadow-topleft { background: url('top_left.png') no-repeat scroll right bottom transparent; }
+.w-shadow-bottomleft { background: url('btm_left.png') no-repeat scroll right top transparent; }
+.w-shadow-bottomright { background: url('btm_rite.png') no-repeat scroll left top transparent; }
+.w-shadow-topright { background: url('top_rite.png') no-repeat scroll left bottom transparent; }
+.storeleftnavborder { background: none repeat scroll 0% 0% rgb(255, 255, 255); padding-left: 10px; padding-top: 11px; border-bottom: 2px solid rgb(255, 255, 255); border-top: 6px solid rgb(255, 255, 255); border-right: 2px solid rgb(255, 255, 255); }
+.new-footer-background { background: url('new-footer-background.gif') repeat-x scroll 0% 0% transparent; height: 357px; }
+.platinumtab { position: relative; float: left; padding-right: 3px; }
+.platinumtab .headerTab-1Class-hide, .platinumtab .headerTab-2Class-hide, .platinumtab .headerTab-3Class-hide, .platinumtab .headerTab-4Class-hide, .platinumtab .headerTab-5Class-hide, .platinumtab .headerTab-6Class-hide, .platinumtab .headerTab-7Class-hide, .platinumtab .headerTab-8Class-hide { display: none; }
+.platinumtab .headerTab-1Class, .platinumtab .headerTab-2Class, .platinumtab .headerTab-3Class, .platinumtab .headerTab-4Class, .platinumtab .headerTab-5Class, .platinumtab .headerTab-6Class, .platinumtab .headerTab-7Class { background: url('tabbg.jpg') repeat-x scroll 0px 0px transparent; text-align: center; width: 109px; height: 28px; }
+.platinumtab .headerTab-8Class { background: url('header-sprite.png') no-repeat scroll 0px -326px transparent; text-align: center; width: 109px; height: 28px; }
+.platinumtab .headerTab-1Class a, .platinumtab .headerTab-2Class a, .platinumtab .headerTab-3Class a, .platinumtab .headerTab-4Class a, .platinumtab .headerTab-5Class a, .platinumtab .headerTab-6Class a, .platinumtab .headerTab-7Class a, .platinumtab .headerTab-8Class a { display: block; color: rgb(73, 81, 88); text-align: center; font-family: arial; font-size: 14px; padding-top: 5px; font-weight: bold; text-decoration: none; }
+.platinumtab .headerTab-8Class a { color: rgb(255, 255, 255); }
+.platinumtab .headerTab-1ClassOver a, .platinumtab .headerTab-2ClassOver a, .platinumtab .headerTab-3ClassOver a, .platinumtab .headerTab-4ClassOver a, .platinumtab .headerTab-5ClassOver a, .platinumtab .headerTab-6ClassOver a, .platinumtab .headerTab-7ClassOver a, .platinumtab .headerTab-8ClassOver a, .platinumtab .headerTab-1ClassOver a:hover, .platinumtab .headerTab-2ClassOver a:hover, .platinumtab .headerTab-3ClassOver a:hover, .platinumtab .headerTab-4ClassOver a:hover, .platinumtab .headerTab-5ClassOver a:hover, .platinumtab .headerTab-6ClassOver a:hover, .platinumtab .headerTab-7ClassOver a:hover, .platinumtab .headerTab-8ClassOver a:hover { display: block; color: rgb(73, 81, 88); text-align: center; font-family: arial; font-size: 14px; padding-top: 5px; font-weight: bold; text-decoration: none; margin-left: -3px; }
+html > body .platinumtab .headerTab-6ClassOver a { padding-left: 0px; }
+.platinumtab .headerTab-5ClassOver a { padding-left: 0px; }
+.platinumtab .headerTab-1ClassOver, .platinumtab .headerTab-2ClassOver, .platinumtab .headerTab-3ClassOver, .platinumtab .headerTab-4ClassOver, .platinumtab .headerTab-5ClassOver, .platinumtab .headerTab-6ClassOver, .platinumtab .headerTab-7ClassOver, .platinumtab .headerTab-8ClassOver { background: url('header-sprite.png') no-repeat scroll right -365px transparent; text-align: center; width: 112px; height: 28px; position: absolute; z-index: 50; top: 0px; left: 0px; }
+.platinumtab .headerTab-1-position, .platinumtab .headerTab-2-position, .platinumtab .headerTab-3-position, .platinumtab .headerTab-4-position, .platinumtab .headerTab-5-position, .platinumtab .headerTab-6-position, .platinumtab .headerTab-7-position, .platinumtab .headerTab-8-position { position: absolute; z-index: 40; padding-right: 0px; padding-top: 0px; top: 28px; display: block; background: url('platinum-dropdown-shadow.png') no-repeat scroll 0% 0% transparent; }
+.platinumtab .headerTab-1-position { background-position: -276px -204px; margin-left: 5px; }
+html > body .platinumtab .headerTab-2-position { background-position: -148px -159px; margin-left: 5px; }
+.platinumtab .headerTab-2-position { background-position: -148px -159px; margin-left: 5px; }
+.platinumtab .headerTab-3-position { background-position: -12px -173px; margin-left: 5px; }
+.platinumtab .headerTab-4-position { background-position: -464px -218px; margin-left: 5px; }
+.platinumtab .headerTab-5-position { background-position: -375px -57px; left: -155px; margin-left: -1px; }
+.platinumtab .headerTab-6-position { background-position: -433px -253px; left: -88px; margin-left: -10px; }
+.platinumtab .headerTab-7-position { background-position: -365px -244px; left: -156px; margin-left: -10px; }
+.platinumtab .headerTab-8-position { background-position: -495px -375px; left: -26px; margin-left: -10px; }
+.platinumtab .headerTab-1-dropdown, .platinumtab .headerTab-2-dropdown, .platinumtab .headerTab-3-dropdown, .platinumtab .headerTab-4-dropdown, .platinumtab .headerTab-5-dropdown, .platinumtab .headerTab-6-dropdown, .platinumtab .headerTab-7-dropdown, .platinumtab .headerTab-8-dropdown { background: url('platinum-dropdown-lbshadow.png') no-repeat scroll 0% 0% transparent; margin-left: 0px; position: relative; left: -5px; }
+.platinumtab .headerTab-1-dropdown, .platinumtab .headerTab-2-dropdown, .platinumtab .headerTab-3-dropdown, .platinumtab .headerTab-4-dropdown {  }
+.platinumtab .headerTab-1-dropdown { width: 369px; height: 296px; background-position: left -204px; }
+.platinumtab .headerTab-2-dropdown { width: 497px; height: 341px; background-position: left -159px; }
+html > body .platinumtab .headerTab-2-dropdown { width: 497px; height: 341px; background-position: left -159px; }
+.platinumtab .headerTab-3-dropdown { width: 633px; height: 327px; background-position: left -173px; }
+.platinumtab .headerTab-4-dropdown { width: 181px; height: 282px; background-position: 0px -218px; }
+.platinumtab .headerTab-5-dropdown { width: 270px; height: 443px; background-position: left -57px; }
+.platinumtab .headerTab-6-dropdown { width: 212px; height: 247px; background-position: left -253px; }
+.platinumtab .headerTab-7-dropdown { width: 280px; height: 256px; background-position: left -244px; }
+.platinumtab .headerTab-8-dropdown { width: 150px; height: 125px; background-position: left -375px; }
+.platinum-links { font-weight: bold; font-size: 12px; color: rgb(240, 97, 6); font-family: Arial,Verdana,Helvetica,sans-serif; text-decoration: none; }
+.platinum-links:hover { color: rgb(240, 97, 6); }
+.sprite-hdr { display: block; background: url('header-sprite.png') no-repeat scroll 0% 0% transparent; }
+a.walgreennewlogo-top:hover { background-position: 0px -518px; width: 101px; height: 42px; }
+.walgreennewlogo-top { background-position: 0px -417px; width: 101px; height: 42px; }
+.walgreennewlogo-bot { background-position: 0px -458px; width: 142px; height: 51px; }
+.walgreennewupload { background: url('header-sprite.png') no-repeat scroll -16px -877px transparent; display: block; float: left; height: 20px; text-decoration: none; margin: 0px 3px 0px 0px; width: 80px; }
+.walgreennewmyphotos { background: url('header-sprite.png') no-repeat scroll -7px -925px transparent; display: block; float: left; height: 20px; text-decoration: none; margin: 0px 3px 0px 0px; width: 130px; }
+.walgreennewprojects { background: url('header-sprite.png') no-repeat scroll -5px -829px transparent; display: block; float: left; height: 20px; text-decoration: none; margin: 0px 3px 0px 0px; width: 134px; }
+.carticon-grey { background-position: 0px -114px; width: 30px; height: 23px; }
+.searchbtn-head { background-position: 0px -289px; width: 49px; height: 28px; }
+.footer-head-txt { font-weight: bold; font-size: 12px; font-family: arial,verdana,serif; text-transform: uppercase; }
+.sprite-ftr { display: block; background-image: url('footer-sprite.png'); }
+.footer-mobileicon { background-position: 0px -10px; width: 7px; height: 13px; }
+.footer-emailicon { background-position: 0px -30px; width: 78px; height: 74px; }
+.footer-icontxt { background-position: 0px -110px; width: 88px; height: 37px; }
+.footer-locations { background-position: 0px -150px; width: 285px; height: 48px; }
+.footer-pickuplink { background-position: 0px -210px; width: 54px; height: 48px; }
+.footer-pickuptxt { background-position: 0px -270px; width: 167px; height: 48px; }
+.footer-bluedotted { background-position: 0px -320px; width: 220px; height: 16px; }
+@media only screen and (max-device-width: 1024px) {
+}
+@media only screen and (max-width: 786px) and (orientation: portrait) {
+}
+@media only screen and (max-device-width: 599px) {
+}
+@media only screen and (max-device-width: 479px) and (orientation: portrait) {
+}
+.fb_reset { background: none repeat scroll 0% 0% transparent; border: 0px none; border-spacing: 0px; color: rgb(0, 0, 0); cursor: auto; direction: ltr; font-family: "lucida grande",tahoma,verdana,arial,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 1; margin: 0px; overflow: visible; padding: 0px; text-align: left; text-decoration: none; text-indent: 0px; text-shadow: none; text-transform: none; visibility: visible; white-space: normal; word-spacing: normal; }
+.fb_reset > div { overflow: hidden; }
+.fb_iframe_widget { display: inline-block; position: relative; }
+.fb_iframe_widget span { display: inline-block; position: relative; text-align: justify; }
+.fb_iframe_widget iframe { position: absolute; }
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=52e162141a22ab341d33515d0c9a4a7a/default/styles/walgreens/walgreens_us/util/layer.css ::::: */
+
+div, table, tr, td, p, span { font-family: Arial,Helvetica,sans-serif; font-size: 12px; color: rgb(70, 70, 70); }
+.w-shadow-top-popup { background: url('top_001.png') repeat-x scroll right top transparent; }
+.w-shadow-bottom { background: url('btm_001.png') repeat-x scroll right top transparent; }
+.w-shadow-left { background: url('left_001.png') repeat-y scroll right top transparent; }
+.w-shadow-right { background: url('rite_001.png') repeat-y scroll left top transparent; }
+.w-shadow-topleft { background: url('top_left_001.png') no-repeat scroll right bottom transparent; }
+.w-shadow-bottomleft { background: url('btm_left_001.png') no-repeat scroll right top transparent; }
+.w-shadow-bottomright { background: url('btm_rite_001.png') no-repeat scroll left top transparent; }
+.w-shadow-topright { background: url('top_rite_001.png') no-repeat scroll left bottom transparent; }
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=9e43d5901bcfe13f4e22fb71d20fd9be/default/styles/walgreens/storewidget.css ::::: */
+
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=fa2acb5c110b2a9805cd2f71d4bfad0a/default/styles/walgreens/responsive_assets.css ::::: */
+
+.resp-header-promoTablet { display: none; }
+.resp-header-promoMobile { display: none; }
+.wg_console_head_nav_prints_container { width: 369px; height: 291px; background-color: rgb(234, 234, 234); font-family: Arial; position: relative; }
+ul.wg_console_head_nav_list li.wg_console_head_nav_headmain { font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); font-family: Arial; }
+ul.wg_console_head_nav_list li a { color: rgb(53, 57, 61); text-decoration: none; font-family: Arial; }
+ul.wg_console_head_nav_list li a:hover { text-decoration: none; font-family: Arial; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { list-style: none outside none; font-family: Arial; display: block; line-height: 20px; font-weight: normal; padding-bottom: 0px; }
+.wg_console_head_nav_photobooks_container { width: 497px; height: 336px; background-color: rgb(234, 234, 234); font-family: Arial; }
+ul.wg_console_head_nav_list li a { color: rgb(53, 57, 61); text-decoration: none; font-family: Arial; font-size: 12px; }
+ul.wg_console_head_nav_list li.wg_console_head_nav_headmain { font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); font-family: Arial; }
+ul.wg_console_head_nav_list li a:hover { text-decoration: none; font-family: Arial; color: rgb(53, 57, 61); font-size: 12px; }
+ul.wg_console_head_nav_list li { list-style: none outside none; font-family: Arial; display: block; line-height: 20px; font-weight: normal; padding-bottom: 0px; }
+ul.wg_console_head_nav_list li a span.wg_console_head_nav_html_pickup { font-family: Arial; font-size: 12px; color: rgb(234, 54, 130); }
+ul.wg_console_head_nav_list li a span.wg_console_head_nav_html_sameday { font-family: Arial; font-size: 12px; font-weight: bold; color: rgb(207, 26, 88); }
+.wg_console_head_nav_cards_container { width: 633px; height: 322px; background-color: rgb(234, 234, 234); font-family: Arial; }
+ul.wg_console_head_nav_list li.wg_console_head_nav_headmain { font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); font-family: Arial; }
+ul.wg_console_head_nav_list li a { color: rgb(53, 57, 61); text-decoration: none; font-family: Arial; }
+ul.wg_console_head_nav_list li a:hover { text-decoration: none; font-family: Arial; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { list-style: none outside none; font-family: Arial; display: block; line-height: 20px; }
+.wg_console_head_nav_html_sameday { font-family: Arial; font-size: 12px; font-weight: bold; color: rgb(207, 26, 88); }
+.wg_console_head_nav_html_pickup { font-family: Arial; font-size: 12px; color: rgb(234, 54, 130); }
+.wg_console_head_nav_calendars_container { width: 181px; height: 277px; background-color: rgb(234, 234, 234); font-family: Arial; position: relative; float: left; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li.wg_console_head_nav_headmain { font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); font-family: Arial; }
+ul.wg_console_head_nav_list li a { color: rgb(53, 57, 61); text-decoration: none; font-family: Arial; }
+ul.wg_console_head_nav_list li a:hover { text-decoration: none; font-family: Arial; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { list-style: none outside none; font-family: Arial; display: block; line-height: 20px; }
+ul.wg_console_head_nav_list span.wg_console_head_nav_headmain { font-family: Arial; font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); }
+ul.wg_console_head_nav_list li span.wg_console_head_nav_html_pickup { font-family: Arial; font-size: 12px; color: rgb(234, 54, 130); }
+ul.wg_console_head_nav_list li span.wg_console_head_nav_html_sameday { font-family: Arial; font-size: 12px; font-weight: bold; color: rgb(207, 26, 88); }
+.wg_console_head_nav_posters_box51 { float: left; background-color: rgb(234, 234, 234); font-family: Arial; width: 270px; height: 438px; }
+ul.wg_console_head_nav_list li a { font-family: Arial; color: rgb(53, 57, 61); text-decoration: none; }
+ul.wg_console_head_nav_list li a:hover { font-family: Arial; text-decoration: none; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { font-family: Arial; list-style: none outside none; }
+ul.wg_console_head_nav_list span.wg_console_head_nav_headmain { font-family: Arial; font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); }
+ul.wg_console_head_nav_list li span.wg_console_head_nav_html_pickup { font-family: Arial; font-size: 12px; color: rgb(234, 54, 130); }
+ul.wg_console_head_nav_list li span.wg_console_head_nav_html_sameday { font-family: Arial; font-size: 12px; font-weight: bold; color: rgb(207, 26, 88); }
+.wg_console_head_nav_walldecors_container { font-family: Arial; width: 212px; height: 242px; background-color: rgb(234, 234, 234); }
+.wg_console_head_nav_walldecors_box61 { font-family: Arial; float: left; border-left: 18px none; }
+.wg_console_head_nav_headmain { font-family: Arial; font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); }
+ul.wg_console_head_nav_list li a { color: rgb(53, 57, 61); text-decoration: none; font-family: Arial; }
+ul.wg_console_head_nav_list li a:hover { text-decoration: none; font-family: Arial; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { list-style: none outside none; font-family: Arial; font-size: 12px; }
+.wg_console_head_nav_html_sameday { font-family: Arial; font-size: 12px; font-weight: bold; color: rgb(207, 26, 88); }
+.wg_console_head_nav_html_pickup { font-family: Arial; font-size: 12px; color: rgb(234, 54, 130); }
+.wg_console_head_nav_giftsandmore_container { width: 280px; height: 251px; background-color: rgb(234, 234, 234); font-family: Arial; }
+.wg_console_head_nav_giftsandmore_box71 { float: left; border-left: 18px none; padding-top: 0px; font-family: Arial; }
+.wg_console_head_nav_headmain { font-family: Arail; font-size: 14px; font-weight: bold; color: rgb(226, 113, 10); }
+ul.wg_console_head_nav_list li a { color: rgb(53, 57, 61); text-decoration: none; font-family: Arial; }
+ul.wg_console_head_nav_list li a:hover { text-decoration: none; font-family: Arial; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { list-style: none outside none; font-family: Arial; }
+.wg_console_head_nav_deals_box81 { float: left; background-color: rgb(234, 234, 234); font-family: Arail; width: 150px; height: 120px; }
+ul.wg_console_head_nav_list li a { font-family: Arial; color: rgb(53, 57, 61); text-decoration: none; }
+ul.wg_console_head_nav_list li a:hover { font-family: Arial; text-decoration: none; color: rgb(53, 57, 61); }
+ul.wg_console_head_nav_list li { font-family: Arial; list-style: none outside none; }
+/* ::::: http://static.sfstg8.qa.sf-cdn.com/MD5=52e162141a22ab341d33515d0c9a4a7a/default/styles/walgreens/walgreens_us/util/layer.css ::::: */
+
+div, table, tr, td, p, span { font-family: Arial,Helvetica,sans-serif; font-size: 12px; color: rgb(70, 70, 70); }
+.w-shadow-top-popup { background: url('top_001.png') repeat-x scroll right top transparent; }
+.w-shadow-bottom { background: url('btm_001.png') repeat-x scroll right top transparent; }
+.w-shadow-left { background: url('left_001.png') repeat-y scroll right top transparent; }
+.w-shadow-right { background: url('rite_001.png') repeat-y scroll left top transparent; }
+.w-shadow-topleft { background: url('top_left_001.png') no-repeat scroll right bottom transparent; }
+.w-shadow-bottomleft { background: url('btm_left_001.png') no-repeat scroll right top transparent; }
+.w-shadow-bottomright { background: url('btm_rite_001.png') no-repeat scroll left top transparent; }
+.w-shadow-topright { background: url('top_rite_001.png') no-repeat scroll left bottom transparent; }
+.mboxDefault { visibility: hidden; }
+.text { color: rgb(106, 115, 123); font-family: "Arial"; font-size: 14px; vertical-align: sub; margin: 0px 0px 0px 14px; }
+.disclaimer { color: rgb(106, 115, 123); font-family: "Arial"; font-size: 10px; }
+h2 { font-family: "Arial"; font-size: 8pt; color: rgb(177, 175, 175); }
+p { color: rgb(177, 175, 175); font-family: "Arial"; font-size: 8pt; }
